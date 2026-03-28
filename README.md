@@ -1,4 +1,4 @@
-## Hii 👋 I am Naveen Kumar
+# Hii 👋 I am Naveen Kumar
 
 # 💫 About Me:
 Python Backend Developer Building scalable APIs with Django, FastAPI, and Flask. 🐍 Python | 🗄️ SQL & MySQL | 🤖 Exploring AI Engineering 📍
